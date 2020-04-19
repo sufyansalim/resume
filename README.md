@@ -1,2 +1,6 @@
-# resume
-My Latest Resume!
+# Resume
+My up to date Resume!
+
+```
+ https://sufyansalim.github.io/resume/
+```
